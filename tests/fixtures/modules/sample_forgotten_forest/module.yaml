@@ -1,0 +1,19 @@
+name: "Sample Forgotten Forest"
+version: "1.0.0"
+edition: "5e"
+priority: 50
+sources:
+  - type: adventure
+    path: "docs/adventure.md"
+  - type: rule
+    path: "docs/rules.md"
+entities:
+  - type: npc
+    path: "data/npcs.json"
+  - type: monster
+    path: "data/monsters.json"
+hooks:
+  on_session_start: []
+  on_long_rest: []
+compatibility:
+  min_platform_version: "0.1.0"
