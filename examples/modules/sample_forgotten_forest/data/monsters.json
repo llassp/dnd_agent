@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Forest Wolf",
+    "size": "Medium",
+    "type": "beast",
+    "alignment": "Unaligned",
+    "armor_class": 13,
+    "hit_points": 11,
+    "speed": "40 ft.",
+    "stats": {
+      "strength": 12,
+      "dexterity": 15,
+      "constitution": 12,
+      "intelligence": 3,
+      "wisdom": 12,
+      "charisma": 6
+    },
+    "skills": {
+      "perception": 3,
+      "stealth": 4
+    },
+    "challenge_rating": "1/4",
+    "abilities": [
+      {
+        "name": "Keen Hearing and Smell",
+        "description": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+      },
+      {
+        "name": "Pack Tactics",
+        "description": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated."
+      }
+    ]
+  },
+  {
+    "name": "Awakened Tree",
+    "size": "Huge",
+    "type": "plant",
+    "alignment": "Unaligned",
+    "armor_class": 13,
+    "hit_points": 59,
+    "speed": "20 ft.",
+    "stats": {
+      "strength": 19,
+      "dexterity": 6,
+      "constitution": 15,
+      "intelligence": 10,
+      "wisdom": 10,
+      "charisma": 10
+    },
+    "damage_resistances": "bludgeoning, piercing",
+    "challenge_rating": "2",
+    "abilities": [
+      {
+        "name": "False Appearance",
+        "description": "While the tree remains motionless, it is indistinguishable from a normal tree."
+      }
+    ]
+  }
+]

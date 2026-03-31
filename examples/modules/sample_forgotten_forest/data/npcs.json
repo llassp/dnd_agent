@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Old Magnus",
+    "type": "npc",
+    "race": "Human",
+    "occupation": "Hermit",
+    "location": "Whispering Glade",
+    "alignment": "Chaotic Neutral",
+    "description": "An elderly human with wild white hair and clouded eyes. He wears tattered robes and carries a gnarled staff.",
+    "personality": "Odd but harmless. Speaks in riddles and often forgets what he was saying mid-sentence.",
+    "secrets": "He was once a wizard's apprentice. He still has one low-level spell slot he can use once per day."
+  },
+  {
+    "name": "Forest Spirit",
+    "type": "npc",
+    "race": "Fey",
+    "occupation": "Guardian",
+    "location": "Twisted Oak",
+    "alignment": "True Neutral",
+    "description": "A swirling mass of autumn leaves and golden light. No fixed form.",
+    "personality": "Curious about mortals but wary of those who bring violence to the forest.",
+    "secrets": "It can speak any language but chooses to communicate through riddles and images."
+  }
+]
